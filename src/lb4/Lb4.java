@@ -18,7 +18,7 @@ public class Lb4 {
         System.out.println("Hellow world");
         System.out.println("ghffhg");
         System.out.println("abababa");
-
+        System.out.println("hrthrthr");
     }
     
 }
