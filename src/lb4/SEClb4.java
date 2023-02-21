@@ -10,5 +10,6 @@ package lb4;
  * @author 20409
  */
 public class SEClb4 {
+    private int a;
     
 }
