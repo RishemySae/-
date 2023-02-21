@@ -19,6 +19,7 @@ public class Lb4 {
         System.out.println("ghffhg");
         System.out.println("abababa");
         System.out.println("hrthrthr");
+        System.out.println("hrjkfddkljf");
     }
     
 }
