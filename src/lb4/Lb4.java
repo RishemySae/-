@@ -22,6 +22,7 @@ public class Lb4 {
         System.out.println("hrjkfddkljf");
         System.out.println("hrjldlkdsklfgjlkdsjglk");
         System.out.println("hrjkfd");
+        System.out.println("123123412");
     }
     
 }
